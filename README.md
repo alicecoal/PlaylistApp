@@ -1,10 +1,21 @@
-# IPR2_PPO
-## Индивидуальная практическая работа №2. УПРАВЛЕНИЕ БАЗАМИ ДАННЫХ В Android
-____
-ВАРИАНТ 4(n/2+1).Список заказов.Создание,
-редактирование, удаление. 
-___
-## ТЕСТЫ НАХОДЯТСЯ В app->src->test/java/com/example/grocerylistapp
-____
+# PlaylistApp
+![](https://imageup.ru/img192/4217981/img_20230117_011912.jpg)
 
-![8_Bad1lYyFs](https://user-images.githubusercontent.com/54409358/212848995-ca1c8ebd-4184-4083-8166-55de87534e68.jpg)
+ВАРИАНТ 3(n/2+1).Список музыкальных альбомов.Создание,
+редактирование, удаление. 
+
+
+Как развернуть проект:
+
+- Открыть Android Studio.
+- File->New->Project from Version Control.
+- В открывшемся окне в поле URL вставить URL проекта https://github.com/alicecoal/PlaylistApp.git
+- Дождаться загрузки проекта и запустить его кнопкой Run.
+
+
+Как запустить тесты:
+
+- После загрузки проекта в его структуре найти app->java->com.example.playlistapp(test).
+- После выбора файла в контекстном меню найти строку Run. 
+
+
